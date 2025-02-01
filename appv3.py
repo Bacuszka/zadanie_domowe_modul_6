@@ -598,6 +598,7 @@ with st.expander("Zobacz wykres skrzypcowy: Lata doświadczenia vs. Ulubione mie
 #
 # HEATMAPA
 #
+
 # Stworzenie rozwijanego paska dla macierzy korelacji
 with st.expander("Zobacz macierz korelacji", expanded=False):
     # Macierz korelacji
